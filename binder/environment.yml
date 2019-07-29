@@ -4,6 +4,9 @@ channels:
 dependencies:
   - python=3.6
   - xarray
+  - xrft
+  - xgcm
+  - scipy
   - dask
   - distributed
   - dask-kubernetes
