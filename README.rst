@@ -11,10 +11,10 @@ See http://pangeo.io for more information.
 Features
 --------
 
-* TODO
+Example notebooks for the surface kinetic energy zonal wavenumber spectra and Omega inversion are given in the repository.
 
 .. _pangeo.binder.io: http://binder.pangeo.io/
 
-.. |Binder| image:: http://binder.pangeo.io/badge.svg
-    :target: http://binder.pangeo.io/v2/gh/roxyboy/2km_flat_channel/master
+.. |Binder| image:: https://binder.pangeo.io/badge_logo.svg
+    :target: https://binder.pangeo.io/v2/gh/roxyboy/2km-flat-channel_eg/master
 
