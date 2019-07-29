@@ -10,7 +10,7 @@ dependencies:
   - dask
   - distributed
   - dask-kubernetes
-  - gcsfs
+  - gcsfs=0.2.1
   - intake::intake-xarray
   - zarr
   - matplotlib
