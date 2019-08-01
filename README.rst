@@ -2,6 +2,9 @@
 2km-flat-channel
 =============================
 
+.. image:: https://zenodo.org/badge/199471228.svg
+      :target: https://zenodo.org/badge/latestdoi/199471228
+
 Jupyter notebook examples for analyzing the zonally re-entrant channel model at 2km resolution.
 
 Montly averaged and 15-daily snapshot outputs from the simulation are available on Pangeo_. Try these notebooks on pangeo.binder.io_ : |Binder|
