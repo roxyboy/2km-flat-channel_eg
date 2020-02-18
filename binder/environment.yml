@@ -9,9 +9,10 @@ dependencies:
   - scipy
   - dask
   - distributed
-  - dask-kubernetes
-  - gcsfs=0.2.1
-  - intake::intake-xarray
+  - dask-kubernetes=0.10
+  - dask-labextension=1.1
+  - gcsfs
+  - intake-xarray
   - zarr
   - matplotlib
   - numcodecs
@@ -20,9 +21,10 @@ dependencies:
   - nomkl
   - nbserverproxy
   - jupyter
-  - jupyterlab=0.35
+  - jupyterlab=1.2
   - jupyterlab_launcher
   - jupyter_client
+  - jupyter-server-proxy=1.2
   - ipywidgets
   - graphviz
   - nodejs
